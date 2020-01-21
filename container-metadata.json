@@ -1,0 +1,15 @@
+{
+  "ernVersion": "0.38.11",
+  "jsApiImpls": [],
+  "miniApps": [
+    "git+ssh://git@github.com/linjson/movies-reloaded-miniapp.git#master"
+  ],
+  "nativeDeps": [
+    "react-native@0.60.5",
+    "ernnavigation-api@1.2.2",
+    "ernnavigation-api-impl-native@1.3.10",
+    "react-native-electrode-bridge@1.5.21",
+    "react-native-svg@8.0.10"
+  ],
+  "platform": "android"
+}
